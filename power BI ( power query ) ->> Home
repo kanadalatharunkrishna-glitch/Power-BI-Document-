@@ -1,1 +1,5 @@
+POWER QUERY (POWER BI)>>HOME
+The Power Query Home tab in Power BI is the primary ribbon menu within the Power Query Editor used for
+initiating data transformation and ingestion tasks. Accessed via "Transform Data" in Power BI Desktop,
+it provides essential tools to connect to new data sources, manage parameters,and perform common transformations like removing columns or filtering rows.
 
